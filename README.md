@@ -1,78 +1,136 @@
 <div align="center">
 
-# Kristian Slaibi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0891b2&height=190&section=header&text=Kristian%20Slaibi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CODE%20%C2%B7%20CREATE%20%C2%B7%20KEEP%20LEARNING&descSize=14&descAlignY=61" width="100%" alt="Kristian Slaibi — Code, create, keep learning" />
 
-**PROGRAMMING STUDENT · JAVA & BACKEND DIRECTION**
+### Aspiring Backend Developer
 
-Poland &nbsp; / &nbsp; Learning through practice
+Java focused &nbsp; · &nbsp; Programming student &nbsp; · &nbsp; Based in Poland
 
-![Java focus](https://img.shields.io/badge/FOCUS-Java-89B4FA?style=for-the-badge&labelColor=1E1E2E)
-![Open to internships](https://img.shields.io/badge/OPEN_TO-Internships-A6E3A1?style=for-the-badge&labelColor=1E1E2E)
+<a href="https://github.com/KAKAXOCHKA"><img src="https://img.shields.io/badge/GitHub-KAKAXOCHKA-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: KAKAXOCHKA" /></a>
+<img src="https://img.shields.io/badge/LEVEL-Trainee-818CF8?style=for-the-badge&labelColor=1E293B" alt="Current level: Trainee" />
+<img src="https://img.shields.io/badge/OPEN_TO-Internships-22D3EE?style=for-the-badge&labelColor=1E293B" alt="Open to internships" />
 
-<br>
+<br><br>
 
-I build small applications for desktop, web, and Android.<br>
-Currently strengthening my Java skills and working towards backend development.
+I turn ideas into small desktop, web, and Android applications.<br>
+My next step is to build a solid foundation in <b>Java backend development</b>.
 
 </div>
 
----
-
-### 01 / Tech stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Web, data & platforms**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![.NET / WinForms](https://img.shields.io/badge/.NET_/_WinForms-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white)
-
-### 02 / What I work on
-
-| Area | Hands-on experience |
-| :--- | :--- |
-| **Application logic** | Basic OOP, collections, conditions, loops, and event handling |
-| **Web & databases** | Form processing, SQL queries, CRUD, login and registration flows |
-| **Desktop & Android** | WinForms interfaces, Kotlin logic, and XML layouts |
-| **Integrations & games** | Tuya API integration and basic Unity gameplay scripting |
-
-### 03 / My workspace
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-222222?style=flat-square&logo=intellijidea&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-### 04 / Learning path
-
-**Now** &nbsp; Java fundamentals · OOP · Collections  
-**Next** &nbsp; JDBC & MySQL · Spring Boot · REST APIs
-
-Programming student with practical experience building small applications.<br>
-Looking for an internship where I can learn from a team and contribute to real development tasks.
-
----
-
-<details>
-<summary><b>GitHub activity</b></summary>
 <br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAKAXOCHKA&show_icons=true&hide_border=true&bg_color=00000000&title_color=89b4fa&icon_color=cba6f7&text_color=8b949e&hide_rank=true" alt="Kristian's GitHub statistics" />
-</p>
-</details>
+
+## &nbsp;01 &nbsp; / &nbsp; About me
+
+I'm **Kristian**, a programming student at **TEB Edukacja** in Gorzów Wielkopolski, Poland. I enjoy working on application logic, databases, and interactive interfaces.
+
+I've worked with several technologies through learning and personal development. My main focus now is **Java**, with **Spring Boot** as a future goal. I'm looking for an internship where I can learn from experienced developers and contribute to a team.
+
+<br>
+
+## &nbsp;02 &nbsp; / &nbsp; Current level
+
+> **Trainee / aspiring Junior Developer**  
+> Practical experience with small applications; currently strengthening Java fundamentals and backend skills.
+
+| Technology / area | Current stage | What I've practiced |
+| :--- | :--- | :--- |
+| **Java** | Foundational knowledge · actively learning | Classes, methods, arrays, ArrayList, loops, sorting, and exception-handling exercises |
+| **C# / WinForms** | Hands-on application experience | Desktop interfaces, event handling, application logic, and API integration |
+| **PHP / MySQL** | Hands-on application experience | Form handling, CRUD, login and registration flows, and database-driven pages |
+| **SQL** | Basic query skills | Filtering, sorting, joins, grouping, and aggregate functions |
+| **HTML / CSS / JavaScript** | Hands-on web experience | Page layouts, styling, DOM updates, events, and simple interactive logic |
+| **Kotlin / Android** | Basic application experience | Kotlin logic, XML layouts, and local CSV data |
+| **Unity / C#** | Learning through practice | First-person interactions, UI, audio, and gameplay scripting |
+| **Git / GitHub** | Basic workflow | Tracking changes, commits, and publishing code |
+
+<sub>These stages describe my learning and hands-on experience, rather than a formal proficiency rating.</sub>
+
+<br>
+
+## &nbsp;03 &nbsp; / &nbsp; Technology palette
 
 <div align="center">
-  <sub>Learn. Build. Understand. Improve.</sub>
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=java,cs,php,kotlin,js&theme=dark" alt="Java, C#, PHP, Kotlin, JavaScript" />
+
+<br><br>
+
+**WEB · DATA · PLATFORMS**
+
+<img src="https://skillicons.dev/icons?i=html,css,mysql,dotnet,androidstudio,unity&theme=dark" alt="HTML, CSS, MySQL, .NET, Android Studio, Unity" />
+
+<br><br>
+
+**DEVELOPMENT TOOLS**
+
+<img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode,git,github&theme=dark" alt="IntelliJ IDEA, Visual Studio, VS Code, Git, GitHub" />
+
+</div>
+
+<br>
+
+## &nbsp;04 &nbsp; / &nbsp; What I work with
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Desktop & integrations</h3>
+C# / .NET / WinForms<br><br>
+Event-driven interfaces, utility applications, and external API communication, including authentication and device commands with the Tuya API.
+</td>
+<td width="50%" valign="top">
+<h3>Web & databases</h3>
+PHP / MySQL / HTML / CSS / JavaScript<br><br>
+Database-driven pages, form processing, CRUD operations, and interactive browser interfaces.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Android development</h3>
+Kotlin / XML / Android Studio<br><br>
+Mobile application logic, screen layouts, and working with locally stored data.
+</td>
+<td width="50%" valign="top">
+<h3>Game development</h3>
+Unity / C#<br><br>
+Learning gameplay scripting through player controls, item interactions, UI, and audio.
+</td>
+</tr>
+</table>
+
+<br>
+
+## &nbsp;05 &nbsp; / &nbsp; Where I'm heading
+
+| Now | Next | Direction |
+| :--- | :--- | :--- |
+| Java fundamentals | JDBC & MySQL | Java backend development |
+| OOP & collections | Spring Boot & REST APIs | Internship → Junior Developer |
+| Problem-solving practice | Building database-backed Java apps | Team experience & code reviews |
+
+<br>
+
+<details>
+<summary><b>GitHub activity & language usage</b></summary>
+<br>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KAKAXOCHKA&show_icons=true&hide_border=true&bg_color=00000000&title_color=818cf8&icon_color=22d3ee&text_color=94a3b8&hide_rank=true" height="165" alt="GitHub activity statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKAXOCHKA&layout=compact&hide_border=true&bg_color=00000000&title_color=818cf8&text_color=94a3b8&langs_count=6" height="165" alt="Language usage in public repositories" />
+
+</div>
+
+<sub>Repository language usage reflects uploaded code, not proficiency.</sub>
+</details>
+
+<br>
+
+<div align="center">
+
+**Learn with purpose. Build with curiosity.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0891b2&height=95&section=footer" width="100%" alt="" />
+
 </div>
